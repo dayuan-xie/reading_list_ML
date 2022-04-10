@@ -22,7 +22,13 @@ estimationf](http://nasmes.dss.ucdavis.edu/uploads/5/6/8/7/56877229/uc_lec.pdf)
 ## Software to Implement Causal ML
 
 1. [Causal ML](https://causalml.readthedocs.io/en/latest/about.html)
+1. [DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python](https://www.jmlr.org/papers/volume23/21-0862/21-0862.pdf)
 
 ## Papers
 
 1. [CATE meets ML](https://link.springer.com/article/10.1007/s42521-021-00033-7)
+
+
+### Causal Decision Making and Optimal Treatment Assignment
+
+1. [Causal Decision Making and Causal Effect Estimation Are Not the Same... and Why It Matters](https://arxiv.org/pdf/2104.04103.pdf)
