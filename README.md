@@ -29,6 +29,17 @@ estimationf](http://nasmes.dss.ucdavis.edu/uploads/5/6/8/7/56877229/uc_lec.pdf)
 1. [CATE meets ML](https://link.springer.com/article/10.1007/s42521-021-00033-7)
 
 
+### Matching Estimator
+
+1. [FLAME: A Fast Large-scale Almost Matching Exactly
+Approach to Causal Inference](https://www.jmlr.org/papers/volume22/19-853/19-853.pdf)
+
+### Instrumental Variable Estimator
+
+1. [Interpretable Almost-Matching-Exactly With Instrumental Variables](https://arxiv.org/pdf/1906.11658.pdf)
+1. [Full matching approach to instrumental variables estimation with application to the effect of malaria on stunting](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-1/Full-matching-approach-to-instrumental-variables-estimation-with-application-to/10.1214/15-AOAS894.full)
+
+
 ### Causal Decision Making and Optimal Treatment Assignment
 
 1. [Causal Decision Making and Causal Effect Estimation Are Not the Same... and Why It Matters](https://arxiv.org/pdf/2104.04103.pdf)
