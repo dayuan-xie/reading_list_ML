@@ -2,9 +2,17 @@
 
 ## Complete Courses
 
-[Machine Learning and Econometrics (Susan Athey, Guido Imbens)](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
+1. [Data Science for Economics Tilburg U 2021](https://madina-k.github.io/dse_mk2021/landing-page.html)
+
+1. [Machine Learning and Econometrics (Susan Athey, Guido Imbens)](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
   
   + [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp)
+  
+1. [Summer Institute 2013 Methods Lecture: Prediction with High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lecture-prediction-high-dimensional-data)
+
+1. [Summer Institute 2013 Methods Lectures: Econometric Methods for High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lectures-econometric-methods-high-dimensional-data)
+
+1. [Data Science for Business](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 ## Notes
 
@@ -14,7 +22,9 @@
 heterogeneous treatment effects and personalized policy
 estimationf](http://nasmes.dss.ucdavis.edu/uploads/5/6/8/7/56877229/uc_lec.pdf) 
 
-## Videos 
+## Summary Videos 
+
+1. [Jin Tian: Estimating Identifiable Causal Effects through Double Machine Learning - YouTube](https://www.youtube.com/watch?v=PUOYK2zhjLc)
 
 1.  [Vira Semenova | Machine Learning for Causal Inference](https://www.youtube.com/watch?v=9-MTbsGvX1U)
 
@@ -39,6 +49,13 @@ Approach to Causal Inference](https://www.jmlr.org/papers/volume22/19-853/19-853
 1. [Interpretable Almost-Matching-Exactly With Instrumental Variables](https://arxiv.org/pdf/1906.11658.pdf)
 1. [Full matching approach to instrumental variables estimation with application to the effect of malaria on stunting](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-1/Full-matching-approach-to-instrumental-variables-estimation-with-application-to/10.1214/15-AOAS894.full)
 
+### Causal Mediation Analysis
+
+[Paper: Causal mediation analysis with double machine learning](https://arxiv.org/abs/2002.12710)
+
+  + [Martin Huber's Seminar Video: Causal mediation analysis with double machine learning](https://www.youtube.com/watch?v=tuBXi3zCCHY)
+
+  + [R code: Causal mediation analysis with double machine learning](https://search.r-project.org/CRAN/refmans/causalweight/html/medDML.html)
 
 ### Causal Decision Making and Optimal Treatment Assignment
 
