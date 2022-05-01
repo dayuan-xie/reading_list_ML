@@ -32,7 +32,7 @@
 
 1. [Machine Learning and Econometrics (Susan Athey, Guido Imbens)](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
   
-  + [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp)
+   + [Course Material](https://drive.google.com/drive/folders/1SEEOMluxBcSAb_tsDYgcLFtOQaeWtkLp)
   
 1. [Summer Institute 2013 Methods Lecture: Prediction with High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lecture-prediction-high-dimensional-data)
 
