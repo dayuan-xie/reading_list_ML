@@ -1,8 +1,34 @@
 # Reading List for Machine Learning and Causal Inference 
 
+
+## Summary Videos 
+
+1. [Paul Hunermund: Causal Inference in Machine Learning and AI - YouTube](https://www.youtube.com/watch?v=GtpnWQ9uTL8)
+
+1. [Jin Tian: Estimating Identifiable Causal Effects through Double Machine Learning - YouTube](https://www.youtube.com/watch?v=PUOYK2zhjLc)
+
+1.  [Vira Semenova | Machine Learning for Causal Inference](https://www.youtube.com/watch?v=9-MTbsGvX1U)
+
+
 ## Complete Courses
 
+### Basics
+
 1. [Data Science for Economics Tilburg U 2021](https://madina-k.github.io/dse_mk2021/landing-page.html)
+
+1. [Data Science for Business](http://www.leonidzhukov.net/hse/2020/datascience/)
+
+### Advanced Machine Learning
+
+1. [Arash A. Amini: STAT 200C: High-dimensional Statistics](http://www.stat.ucla.edu/~arashamini/teaching/200c)
+
+1. [Arash A. Amini | STATS 231C: Theories of Machine Learning](http://www.stat.ucla.edu/~arashamini/teaching/231c)
+
+1. Statistical Theory of Deep Learning by Sophie Langer
+
+### Machine Learning and Econometrics
+
+1. [Athey, Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
 
 1. [Machine Learning and Econometrics (Susan Athey, Guido Imbens)](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
   
@@ -12,7 +38,6 @@
 
 1. [Summer Institute 2013 Methods Lectures: Econometric Methods for High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lectures-econometric-methods-high-dimensional-data)
 
-1. [Data Science for Business](http://www.leonidzhukov.net/hse/2020/datascience/)
 
 ## Notes
 
@@ -22,11 +47,6 @@
 heterogeneous treatment effects and personalized policy
 estimationf](http://nasmes.dss.ucdavis.edu/uploads/5/6/8/7/56877229/uc_lec.pdf) 
 
-## Summary Videos 
-
-1. [Jin Tian: Estimating Identifiable Causal Effects through Double Machine Learning - YouTube](https://www.youtube.com/watch?v=PUOYK2zhjLc)
-
-1.  [Vira Semenova | Machine Learning for Causal Inference](https://www.youtube.com/watch?v=9-MTbsGvX1U)
 
 
 ## Software to Implement Causal ML
