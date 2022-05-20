@@ -1,5 +1,6 @@
 # Reading List for Machine Learning and Causal Inference 
 
+[Understanding Confusion Matrix | by Sarang Narkhede | Towards Data Science](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 
 ## Summary Videos 
 
@@ -26,6 +27,8 @@
 
 1. Statistical Theory of Deep Learning by Sophie Langer
 
+1. [High-Dimensional Data Analysis (BIOS 7240)](https://myweb.uiowa.edu/pbreheny/7240/s19/notes.html)
+
 ### Machine Learning and Econometrics
 
 1. [Athey, Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
@@ -37,6 +40,8 @@
 1. [Summer Institute 2013 Methods Lecture: Prediction with High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lecture-prediction-high-dimensional-data)
 
 1. [Summer Institute 2013 Methods Lectures: Econometric Methods for High-Dimensional Data | NBER](https://www.nber.org/lecture/summer-institute-2013-methods-lectures-econometric-methods-high-dimensional-data)
+
+1. [Machine Learning for Economists (Itamar Caspi and Ariel Mansura)](https://ml4econ.github.io/course-spring2019/lectures.html#week_9)
 
 
 ## Notes
@@ -52,7 +57,10 @@ estimationf](http://nasmes.dss.ucdavis.edu/uploads/5/6/8/7/56877229/uc_lec.pdf)
 ## Software to Implement Causal ML
 
 1. [Causal ML](https://causalml.readthedocs.io/en/latest/about.html)
+
 1. [DoubleML - An Object-Oriented Implementation of Double Machine Learning in Python](https://www.jmlr.org/papers/volume23/21-0862/21-0862.pdf)
+
+1. [Awesome Machine Learning: A curated list of awesome Machine Learning frameworks, libraries and software.](https://github.com/dengzc/awesome-machine-learning)
 
 ## Papers
 
@@ -68,6 +76,7 @@ Approach to Causal Inference](https://www.jmlr.org/papers/volume22/19-853/19-853
 
 1. [Interpretable Almost-Matching-Exactly With Instrumental Variables](https://arxiv.org/pdf/1906.11658.pdf)
 1. [Full matching approach to instrumental variables estimation with application to the effect of malaria on stunting](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-1/Full-matching-approach-to-instrumental-variables-estimation-with-application-to/10.1214/15-AOAS894.full)
+1. [Adversarial machine learning and instrumental variables for flexible causal modeling - Microsoft Research](https://www.microsoft.com/en-us/research/blog/adversarial-machine-learning-and-instrumental-variables-for-flexible-causal-modeling/)
 
 ### Causal Mediation Analysis
 
