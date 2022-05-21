@@ -1,7 +1,5 @@
 # Reading List for Machine Learning and Causal Inference 
 
-Fan Rui's revision #4
-
 [Understanding Confusion Matrix | by Sarang Narkhede | Towards Data Science](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
 
 ## Summary Videos 
